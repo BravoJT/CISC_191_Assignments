@@ -3,4 +3,4 @@ This lab consists of two classes; [Main](src/Main.java) and [Palindrometer](src/
 # **Flowchart**
 ![Flowchart](flowchart.png)
 # **Challenges**
-I hadn't used Deques before, so it took a little reading to figure it out. It's interesting how Deques simultaniously remove the data while we use it for a statement without serperately changing it.
+I hadn't used Deques before, so it took a little reading to figure it out. It's interesting how Deques simultaneously remove the data while we use it for a statement without serparately changing it.
