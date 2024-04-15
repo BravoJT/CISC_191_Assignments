@@ -10,7 +10,7 @@ public class MilesToKilos extends JFrame implements ChangeListener {
     private JLabel[] labels;
     private JSpinner input;
     MilesToKilos(){
-        setTitle("Convert Miles to Kilometers! (press 'enter' in a text box to calculate)");
+        setTitle("Convert Miles to Kilometers!");
         out = new JTextField();
         labels = new JLabel[3];
         input = new JSpinner();
