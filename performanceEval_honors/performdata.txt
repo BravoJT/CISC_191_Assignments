@@ -1,0 +1,14 @@
+Creating ArrayList (seconds): 8.96  17.42  47.92
+Adding ArrayList Start (seconds): 0.56  0.64  0.61
+Removing ArrayList Start (seconds): 0.50  0.57  0.64
+Adding ArrayList End (seconds): inst  inst  inst
+Removing ArrayList End (seconds): inst  inst  inst
+
+Creating LinkedList (seconds): 45.91  96.78  114.33
+Adding LinkedList Start (seconds): inst  inst  inst
+Removing LinkedList Start (seconds): inst  inst  inst
+Adding LinkedList End (seconds): inst  inst  inst
+Removing LinkedList End (seconds): inst  inst  inst
+
+forLoop .get() time (mins:sec): 4:14.01  8:33.10  15:37.36
+ListIterator time (mins:sec): 4:38.55  9:24.78  16:24.00
